@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android.iml" filepath="$PROJECT_DIR$/.idea/modules/android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/android.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/android.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/android.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/android.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/android.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/android.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/android.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/android.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1041466293/android.device_info_plus.iml" filepath="$PROJECT_DIR$/.idea/modules/1041466293/android.device_info_plus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1041466293/android.device_info_plus.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/1041466293/android.device_info_plus.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1041466293/android.device_info_plus.main.iml" filepath="$PROJECT_DIR$/.idea/modules/1041466293/android.device_info_plus.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1041466293/android.device_info_plus.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/1041466293/android.device_info_plus.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/404453434/android.firebase_core.iml" filepath="$PROJECT_DIR$/.idea/modules/404453434/android.firebase_core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/404453434/android.firebase_core.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/404453434/android.firebase_core.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/404453434/android.firebase_core.main.iml" filepath="$PROJECT_DIR$/.idea/modules/404453434/android.firebase_core.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/404453434/android.firebase_core.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/404453434/android.firebase_core.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-653490194/android.health.iml" filepath="$PROJECT_DIR$/.idea/modules/-653490194/android.health.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-653490194/android.health.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-653490194/android.health.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-653490194/android.health.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-653490194/android.health.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-653490194/android.health.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-653490194/android.health.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/501653505/android.permission_handler_android.iml" filepath="$PROJECT_DIR$/.idea/modules/501653505/android.permission_handler_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/501653505/android.permission_handler_android.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/501653505/android.permission_handler_android.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/501653505/android.permission_handler_android.main.iml" filepath="$PROJECT_DIR$/.idea/modules/501653505/android.permission_handler_android.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/501653505/android.permission_handler_android.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/501653505/android.permission_handler_android.unitTest.iml" />
+    </modules>
+  </component>
+</project>
