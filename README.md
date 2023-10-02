@@ -1,16 +1,14 @@
-# health_demo
+# Apple Health & Google Fit Demo
 
-A new Flutter project.
+## About this app:
 
-## Getting Started
+This is a health and fitness tracking application that allows you to view, add, modify, and remove your health and fitness records. It seamlessly synchronizes your data with Apple Health for iOS users and Google Fit for Android users.
 
-This project is a starting point for a Flutter application.
+When you make changes to your health or fitness data within this app, it will automatically update and sync with either Apple Health or Google Fit, depending on your device.
 
-A few resources to get you started if this is your first Flutter project:
+Conversely, if you make alterations to your health or fitness data using the Apple Health or Google Fit apps, this app will automatically receive and synchronize those changes.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+You can access information on your active energy expenditure, basal energy expenditure, blood glucose levels, blood oxygen levels, step count, and more. Additionally, you can monitor your body temperature, heart rate, sleep patterns, and other metrics, but this requires the use of an Apple iWatch or an Android smartwatch.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Preview
+![alt text](https://i.postimg.cc/Wp0SyQ5R/imgonline-com-ua-twotoone-wnatqnyt-As6-M8.png "img")
